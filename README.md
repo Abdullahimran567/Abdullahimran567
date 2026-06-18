@@ -1,6 +1,6 @@
 Hi there, I'm Abdullah Imran 👋
 
-SE Student (2nd Year) · MERN Stack Developer · he/him
+SE Student (2nd Year) · Full-Stack Developer · he/him
 
 
 🚀 About Me
