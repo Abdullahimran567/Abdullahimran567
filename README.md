@@ -32,7 +32,7 @@ Hospital Management System
 A Java desktop app for managing hospital records — Swing-based UI on the frontend, connected to a SQL database via JDBC on the backend.
 
 
-Add the actual repo links for Carkart and Hospital Management System when you have them, e.g. [Carkart](https://github.com/Abdullahimran567/carkart).
+
 
 
 
